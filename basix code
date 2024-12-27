@@ -1,0 +1,4 @@
+fn main(){
+  let v = 5;
+  println!("x = {}",v);
+}
